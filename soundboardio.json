@@ -12,13 +12,13 @@
   "version": "1.0.0",
   "icons": [
     {
-      "src": "/icons/icon-48.png",
+      "src": "/icons/basic effects.svg",
       "sizes": "48x48",
       "purpose": "48x48",
-      "type": "image/png"
+      "type": "image/svg"
     },
     {
-      "src": "/icons/icon.png",
+      "src": "/icons/basic effects.png",
       "sizes": "144x144",
       "type": "image/png"
     }
