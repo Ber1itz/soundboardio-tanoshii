@@ -1,0 +1,56 @@
+{
+  "name": "Funny Moments",
+  "shortName": "Fun Stuff",
+  "description": "",
+  "color": "#ff0000",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "Berlitz",
+    "url": ""
+  },
+  "lang": "en",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "purpose": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Beerus and Whis scream",
+      "filename": "Beerus and Whis scream.mp3"
+    },
+    {
+      "name": "Wheeze",
+      "filename": "Dream's Wheeze.mp3"
+    },
+    {
+      "name": "Excuse Me, Whaaaat??",
+      "filename": "Excuse Me Whaaaat.mp3"
+    },
+    {
+      "name": "I Don't Like Where This is Going",
+      "filename": "I don't Like Where This is Going.mp3"
+    },
+    {
+      "name": "I Don't Remember Asking You",
+      "filename": "I don't remember asking you.mp3"
+    },
+    {
+      "name": "I Hate You",
+      "filename": "I hate you.mp3"
+    },
+    {
+      "name": "Oh Shit, Not Good",
+      "filename": "Oh Shit, Not Good.mp3"
+    }
+  ]
+}
