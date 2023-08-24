@@ -25,16 +25,60 @@
   ],
   "tiles": [
     {
+      "name": "Akechi-I Hate You",
+      "filename": "I'm Going To Be Entirely Honest With You, I Hate You.mp3"
+    },
+    {
+      "name": "Akechi-The Hell Was That?!",
+      "filename": "The Hell Was That.mp3"
+    },
+    {
+      "name": "Baka Marimo",
+      "filename": "Baka Marimo.mp3"
+    },
+    {
       "name": "Beerus and Whis scream",
       "filename": "Beerus and Whis scream.mp3"
     },
     {
-      "name": "Wheeze",
-      "filename": "Dream's Wheeze.mp3"
+      "name": "Dr. Stone scream",
+      "filename": "I'M SO DEAD.mp3"
+    },
+    {
+      "name": "Don't You Dare",
+      "filename": "Don't you dare.mp3"
+    },
+    {
+      "name": "Double-Seeing Glasses",
+      "filename": "Jacksepticeye - I'm going to have to put on my double-seeing glasses.mp3"
     },
     {
       "name": "Excuse Me, Whaaaat??",
       "filename": "Excuse Me Whaaaat.mp3"
+    },
+    {
+      "name": "Foghorn",
+      "filename": "Foghorn.mp3"
+    },
+    {
+      "name": "For Real?",
+      "filename": "For Real.mp3"
+    },
+    {
+      "name": "Fuck This Shit, I'm Out",
+      "filename": "Fuck this Shit I'm Out.mp3"
+    },
+    {
+      "name": "Give Me A Big, Fat Break!!",
+      "filename": "GIVE ME A BIG, FAT BREAK.mp3"
+    },
+    {
+      "name": "He Does Have His Moments",
+      "filename": "He does have his moments.mp3"
+    },
+    {
+      "name": "hot",
+      "filename": "hot.mp3"
     },
     {
       "name": "I Don't Like Where This is Going",
@@ -45,12 +89,36 @@
       "filename": "I don't remember asking you.mp3"
     },
     {
-      "name": "I Hate You",
-      "filename": "I hate you.mp3"
+      "name": "Objection",
+      "filename": "Objection.mp3"
+    },
+    {
+      "name": "Oh, hell no!",
+      "filename": "OH HELL NO.mp3"
     },
     {
       "name": "Oh Shit, Not Good",
       "filename": "Oh Shit, Not Good.mp3"
+    },
+    {
+      "name": "Trump-Don't Be Rude",
+      "filename": "Don't Be Rude.mp3"
+    },
+    {
+      "name": "Trump-Quiet Quiet",
+      "filename": "Quiet Quiet.mp3"
+    },
+    {
+      "name": "Trump-Fake News",
+      "filename": "You Are Fake News.mp3"
+    },
+    {
+      "name": "What?",
+      "filename": "What.mp3"
+    },
+    {
+      "name": "Wheeze",
+      "filename": "Wheeze.mp3"
     }
   ]
 }
