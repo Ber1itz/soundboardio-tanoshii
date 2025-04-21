@@ -41,6 +41,14 @@
       "filename": "Beerus and Whis scream.mp3"
     },
     {
+      "name": "Cat Laughing",
+      "filename": "Cat Laughing.mp3"
+    },
+    {
+      "name": "Cell TFS",
+      "filename": "Cell TFS.mp3"
+    },
+    {
       "name": "Dr. Stone scream",
       "filename": "I'M SO DEAD.mp3"
     },
@@ -51,6 +59,10 @@
     {
       "name": "Double-Seeing Glasses",
       "filename": "Jacksepticeye - I'm going to have to put on my double-seeing glasses.mp3"
+    },
+    {
+      "name": "Emotional Damage",
+      "filename": "Emotional Damage.mp3"
     },
     {
       "name": "Excuse Me, Whaaaat??",
@@ -89,6 +101,22 @@
       "filename": "I don't remember asking you.mp3"
     },
     {
+      "name": "I WILL CUT A B*TCH",
+      "filename": "I will cut a bitch_.mp3"
+    },
+    {
+      "name": "If I Had One!",
+      "filename": "If I had one!.mp3"
+    },
+    {
+      "name": "I'm About to Whip Somebody's Ass",
+      "filename": "I'm About to Whip Somebody's Ass.mp3"
+    },
+    {
+      "name": "Joker Laugh",
+      "filename": "Joker Laughing.mp3"
+    },
+    {
       "name": "Objection",
       "filename": "Objection.mp3"
     },
@@ -97,8 +125,20 @@
       "filename": "OH HELL NO.mp3"
     },
     {
+      "name": "OMG We Are",
+      "filename": "Oh My God, We Are.mp3"
+    },
+    {
       "name": "Oh Shit, Not Good",
       "filename": "Oh Shit, Not Good.mp3"
+    },
+    {
+      "name": "Really",
+      "filename": "Really - Ace Ventura.mp3"
+    },
+    {
+      "name": "SO MUCH NOPE",
+      "filename": "SO MUCH NOPE..mp3"
     },
     {
       "name": "Trump-Don't Be Rude",
@@ -113,12 +153,36 @@
       "filename": "You Are Fake News.mp3"
     },
     {
+      "name": "VERNIAAAASS",
+      "filename": "VERNIAAAASS.mp3"
+    },
+    {
+      "name": "Wah Wah Wah",
+      "filename": "Wah Wah Wah.mp3"
+    },
+    {
       "name": "What?",
       "filename": "What.mp3"
     },
     {
+      "name": "WTF",
+      "filename": "Eww dude WTF.mp3"
+    },
+    {
       "name": "Wheeze",
       "filename": "Wheeze.mp3"
+    },
+    {
+      "name": "Yes, I Like That",
+      "filename": "Yes, I like that.mp3"
+    },
+    {
+      "name": "YOU DUMBASS!!",
+      "filename": "YOU DUMBASS.mp3"
+    },
+    {
+      "name": "YOU WHAT?!",
+      "filename": "You What_!.mp3"
     }
   ]
 }
